@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <!--<OutputType>Exe</OutputType>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="System.Security.Permissions" Version="7.0.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Appointment.Domain">
+      <HintPath>..\Appointment.Domain\bin\Debug\net7.0\Appointment.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
+<!--<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		--><!-- or your target framework version --><!--
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+		--><!-- or your database provider --><!--
+	</ItemGroup>
+</Project>-->
+

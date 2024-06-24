@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{1412F04C-BE37-4B16-9F5E-33D78FBAD672}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{ECFCBBAF-3F3B-49A6-9010-F561BDF1901D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{1F49DE55-703E-4728-B9C5-84E2A0FF88A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{72A67BE0-DB15-4F98-93FF-16F73749F8F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment.Domain", "..\Appointment.Domain\Appointment.Domain.csproj", "{3472EB1C-39C9-4621-B212-B1A9DF6FD941}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment.DAL", "..\Appointment.DAL\Appointment.DAL.csproj", "{9542D43C-8365-4E57-8340-40E468CA7DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment.API", "..\Appointment.API\Appointment.API.csproj", "{3DED3691-A060-4C6D-9940-08C89B3BC108}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appointment.Service", "..\Appointment.Service\Appointment.Service.csproj", "{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentConsoleApp", "AppointmentConsoleApp\AppointmentConsoleApp.csproj", "{093D06A8-543A-4999-A56C-098F89B09E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3472EB1C-39C9-4621-B212-B1A9DF6FD941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3472EB1C-39C9-4621-B212-B1A9DF6FD941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3472EB1C-39C9-4621-B212-B1A9DF6FD941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3472EB1C-39C9-4621-B212-B1A9DF6FD941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9542D43C-8365-4E57-8340-40E468CA7DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9542D43C-8365-4E57-8340-40E468CA7DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9542D43C-8365-4E57-8340-40E468CA7DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9542D43C-8365-4E57-8340-40E468CA7DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DED3691-A060-4C6D-9940-08C89B3BC108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED3691-A060-4C6D-9940-08C89B3BC108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED3691-A060-4C6D-9940-08C89B3BC108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED3691-A060-4C6D-9940-08C89B3BC108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093D06A8-543A-4999-A56C-098F89B09E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093D06A8-543A-4999-A56C-098F89B09E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093D06A8-543A-4999-A56C-098F89B09E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093D06A8-543A-4999-A56C-098F89B09E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3472EB1C-39C9-4621-B212-B1A9DF6FD941} = {ECFCBBAF-3F3B-49A6-9010-F561BDF1901D}
+		{9542D43C-8365-4E57-8340-40E468CA7DEF} = {1F49DE55-703E-4728-B9C5-84E2A0FF88A7}
+		{3DED3691-A060-4C6D-9940-08C89B3BC108} = {72A67BE0-DB15-4F98-93FF-16F73749F8F7}
+		{A33E1FD8-1426-46A1-85B6-E8CD6B0AEFD3} = {1412F04C-BE37-4B16-9F5E-33D78FBAD672}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D36C76-44B1-4CDA-A4A9-C32EB79B9E88}
+	EndGlobalSection
+EndGlobal

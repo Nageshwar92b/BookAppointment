@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hliyqDxVVtqK7H7495oSt2bAPx9eb3SP/TRwJbid3QoYM+ddQuQER7COsOMyZhP6b+z/2yhkxh3qLWf4hIvJew==",
+  "success": true,
+  "projectFilePath": "E:\\.NetClass\\Task\\AppointmentManagement\\AppointmentManagement\\AppointmentConsoleApp\\AppointmentConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

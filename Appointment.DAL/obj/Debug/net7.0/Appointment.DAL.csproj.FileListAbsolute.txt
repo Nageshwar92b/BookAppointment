@@ -1,0 +1,15 @@
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.csproj.AssemblyReference.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.AssemblyInfoInputs.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.AssemblyInfo.cs
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.csproj.CoreCompileInputs.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\bin\Debug\net7.0\Appointment.DAL.deps.json
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\bin\Debug\net7.0\Appointment.DAL.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\bin\Debug\net7.0\Appointment.DAL.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\bin\Debug\net7.0\Appointment.Domain.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\bin\Debug\net7.0\Appointment.Domain.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.csproj.CopyComplete
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\refint\Appointment.DAL.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\Appointment.DAL.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.DAL\obj\Debug\net7.0\ref\Appointment.DAL.dll

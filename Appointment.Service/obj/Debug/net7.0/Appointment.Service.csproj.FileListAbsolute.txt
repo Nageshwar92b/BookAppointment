@@ -1,0 +1,17 @@
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.csproj.AssemblyReference.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.AssemblyInfoInputs.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.AssemblyInfo.cs
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.csproj.CoreCompileInputs.cache
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.Service.deps.json
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.Service.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.Service.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.DAL.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.Domain.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.DAL.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\bin\Debug\net7.0\Appointment.Domain.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.csproj.CopyComplete
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\refint\Appointment.Service.dll
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\Appointment.Service.pdb
+E:\.NetClass\Task\AppointmentManagement\Appointment.Service\obj\Debug\net7.0\ref\Appointment.Service.dll
